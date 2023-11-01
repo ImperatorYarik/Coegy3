@@ -9,7 +9,7 @@
 2. Additional features:
     - moderator registration, authorization, logs, moderating;
     - admin authorization, admin panel, logs, rights;
-    3. User environment:
+    *User environment*:
         - stories;
         - image/video upscaling; 
         - saved posts;
