@@ -1,9 +1,25 @@
 **Coegy 3 Features list**
->MVP
-    1. User registration, authorization.
-    2. User profile, post creation, likes, comments, follows/followers. 
-    3. Communication between users, reposts, other (chat, messager)
-    4. User personal homepage
-    5. Search
->Additional features
-    ...
+1. MVP:
+    - User registration, authorization, logout;
+    - User profile, post creation, hashtags, usertags, likes, comments, follows/followers, notifications; 
+    - Communication between users, reposts, reports, other (chat, messager);
+    - User personal homepage;
+    - Search by name;
+    - settings;
+2. Additional features:
+    - moderator registration, authorization, logs, moderating;
+    - admin authorization, admin panel, logs, rights;
+3. User enviroment:
+    - stories;
+    - image/video upscaling; 
+    - saved posts;
+    - "Your activity";
+    - "Explore"
+    - group chat;
+    - user profile visibility;
+    - veryfied;
+    - follow and tag control;
+    - locations
+    - ask for help
+    - reels
+
