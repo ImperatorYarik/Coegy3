@@ -9,17 +9,19 @@
 2. Additional features:
     - moderator registration, authorization, logs, moderating;
     - admin authorization, admin panel, logs, rights;
-3. User enviroment:
-    - stories;
-    - image/video upscaling; 
-    - saved posts;
-    - "Your activity";
-    - "Explore"
-    - group chat;
-    - user profile visibility;
-    - veryfied;
-    - follow and tag control;
-    - locations
-    - ask for help
-    - reels
+    3. User environment:
+        - stories;
+        - image/video upscaling; 
+        - saved posts;
+        - "Your activity";
+        - "Explore"
+        - group chat;
+        - user profile visibility;
+        - veryfied;
+        - follow and tag control;
+        - locations
+        - ask for help
+        - reels
 
+**DataBase Diagram**
+https://dbdiagram.io/d/Coegy-3-DB-diagram-654253657d8bbd64654766d7
